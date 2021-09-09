@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1631044621 source:c:\users\alzem\documents\projetos\serial_server\main.c
+	<stdio.h>
+	<stdint.h>
+	<windows.h>
+	<stdlib.h>
+	<dirent.h>
+	"serial.h"
+
+1631044136 c:\users\alzem\documents\projetos\serial_server\serial.h
+	<stdint.h>
+	<windows.h>
+
+1631044178 source:c:\users\alzem\documents\projetos\serial_server\serial.c
+	"serial.h"
+
